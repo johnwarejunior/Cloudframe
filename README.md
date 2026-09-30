@@ -100,7 +100,7 @@ This is intentionally the swap point for something better: `classify_object()` t
 
 ## License
 
-Copyright (c) 2026 John Ware Jr. All rights reserved.
+Copyright (c) 2026 John Ware. All rights reserved.
 
 This source code is made publicly visible for viewing purposes only.
 No permission is granted to use, copy, modify, merge, publish, distribute,
