@@ -100,4 +100,11 @@ This is intentionally the swap point for something better: `classify_object()` t
 
 ## License
 
-Not yet decided — add a license before making this repository public or open-source. Common choices: MIT (permissive, typical for developer tools) if you want this openly reusable, or a proprietary/all-rights-reserved notice if this stays closed for a commercial product. Worth deciding deliberately, since it affects eligibility for programs like Epic MegaGrants that specifically fund open-source contributions.
+Copyright (c) 2026 John Ware Jr. All rights reserved.
+
+This source code is made publicly visible for viewing purposes only.
+No permission is granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell copies of this software, in whole or in part, without
+prior written permission from the copyright holder.
+
+For licensing inquiries, contact john@johnwarejunior.com.
